@@ -7,12 +7,12 @@ var GhoulGame = require('./img/GhoulGame.png');
 class Portfolio extends Component {
     static defaultProps = {
         projects : [
-            { id: 1, name: 'Emily\'s Adventures game', type: 'Unity 2D game', year: 2018, base_experience: 1, altText: 'Screenshot of game' },
-            { id: 2, name: 'Emily\'s Adventures blog', type: 'WordPress website', year: 2019, base_experience: 1, img: EmilyBlog, altText: 'Screenshot of blog detailing the progress made in making game' },
-            { id: 3, name: 'Movie database', type: 'Python database app', year: 2019, base_experience: 1, altText: 'Screenshot of Python code' },
-            { id: 4, name: 'Nonprofit social media', type: 'video', year: 2016, base_experience: 1, altText: 'Screenshot of people interacting in this nonprofit workplace' },
-            { id: 5, name: 'Ghoul Number Guess', type: 'Unity 2D game', year: 2018, base_experience: 1, img: GhoulGame },
-            { id: 6, name: 'This web app', type: 'React front-end app', year: 2019, base_experience: 1 }
+            { id: 1, name: 'Turn on', type: 'Put AAA batteries in. If already done, press a button to wake device up.', year: 2018, base_experience: 1, altText: 'Screenshot of game' },
+            { id: 2, name: 'Select sound', type: 'Press number 1 to 16 to select a sound. Start a pattern first if you want to play along.', year: 2019, base_experience: 1, img: EmilyBlog, altText: 'Screenshot of blog detailing the progress made in making game' },
+            { id: 3, name: 'Set volume', type: 'Press BPM + any numbered key 1 to 16. Low is 1, max is 16.', year: 2019, base_experience: 1, altText: 'Screenshot of Python code' },
+            { id: 4, name: 'Play pattern', type: 'Hold Pattern + number 1 to 16 to select pattern, then Play to play it.', year: 2016, base_experience: 1, altText: 'Screenshot of people interacting in this nonprofit workplace' },
+            { id: 5, name: 'Turn off', type: 'Press sound + BPM at same time', year: 2018, base_experience: 1, img: GhoulGame },
+            { id: 6, name: '', type: '', year: 2019, base_experience: 1 }
         ]
     };
 
