@@ -15,10 +15,7 @@ class Pokedex extends Component {
                 <h1>{title}</h1>
                 {/* <h4>Total projects: {this.props.exp}</h4> */}
                 <div className="Pokedex-cards">
-                    {this.props.projects1.map((p) => (
-                        <Projectcard img={p.img} name={p.name} type={p.type} />
-                    ))}
-                    {this.props.projects2.map((p) => (
+                    {this.props.projects.map((p) => (
                         <Projectcard img={p.img} name={p.name} type={p.type} />
                     ))}
                 </div>  
