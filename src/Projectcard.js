@@ -11,10 +11,9 @@ class Projectcard extends Component {
         //let imgSrc = `${POKE_API}${padToThree(this.props.id)}.png`;
         return ( 
             <div className="Projectcard">
-                <h1 className="Projectcard-title">{this.props.name}</h1>
                 <img src={this.props.img} alt={this.props.alt} />
+                <h1 className="Projectcard-title">{this.props.name}</h1>
                 <div className="Projectcard-data">{this.props.type}</div>
-                <div className="Projectcard-data">{this.props.exp}</div>
             </div>
         );
     }
