@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
 import Pokedex from './Pokedex';
 
-var selectSound = require('./img/EmilyBlog.png');
-var turnOff = require('./img/GhoulGame.png');
+var selectSound = require('./img/placeholderIcon.jpg');
+var turnOff = require('./img/placeholderIcon.jpg');
 
 class Portfolio extends Component {
     static defaultProps = {
