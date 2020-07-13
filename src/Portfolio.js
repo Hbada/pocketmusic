@@ -23,9 +23,9 @@ class Portfolio extends Component {
             // let randIdx = Math.floor(Math.random() * hand2.length);
             // let randprojects = hand2.splice(randIdx, 1)[0];
             // hand1.push(randprojects);
-        }
-        let exp1 = hand1.reduce((exp, projects) => exp + projects.base_experience, 0);
-        let exp2 = hand2.reduce((exp, projects) => exp + projects.base_experience, 0);
+        // }
+        // let exp1 = hand1.reduce((exp, projects) => exp + projects.base_experience, 0);
+        // let exp2 = hand2.reduce((exp, projects) => exp + projects.base_experience, 0);
         return (
             <div>
                 <Pokedex projects={hand1} exp={exp1} isWinner={ exp1 > exp2 } />
