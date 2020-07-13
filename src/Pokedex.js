@@ -13,7 +13,7 @@ class Pokedex extends Component {
         return (
             <div className="Pokedex">
                 <h1>{title}</h1>
-                <h4>Total projects: {this.props.exp}</h4>
+                {/* <h4>Total projects: {this.props.exp}</h4> */}
                 <div className="Pokedex-cards">
                     {this.props.projects.map((p) => (
                         <Projectcard img={p.img} name={p.name} type={p.type} />
