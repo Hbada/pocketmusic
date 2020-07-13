@@ -17,12 +17,12 @@ class Portfolio extends Component {
     };
 
     render() {
-        let hand1 = [];
+        let hand1 = [...this.props.projects ];
         let hand2 = [...this.props.projects ];
-        while( hand1.length < hand2.length ) {
-            let randIdx = Math.floor(Math.random() * hand2.length);
-            let randprojects = hand2.splice(randIdx, 1)[0];
-            hand1.push(randprojects);
+        // while( hand1.length < hand2.length ) {
+            // let randIdx = Math.floor(Math.random() * hand2.length);
+            // let randprojects = hand2.splice(randIdx, 1)[0];
+            // hand1.push(randprojects);
         }
         let exp1 = hand1.reduce((exp, projects) => exp + projects.base_experience, 0);
         let exp2 = hand2.reduce((exp, projects) => exp + projects.base_experience, 0);
