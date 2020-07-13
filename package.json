@@ -1,6 +1,6 @@
 {
-  "name": "portfolio",
-  "homepage": "https://hbada.github.io/pocketmusic",
+  "name": "pocketmusic",
+  "homepage": "https://hbada.github.io/Pocketmusic",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
