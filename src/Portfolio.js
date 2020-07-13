@@ -36,7 +36,9 @@ class Portfolio extends Component {
         // let exp2 = hand2.reduce((exp, projects) => exp + projects.base_experience, 0);
         return (
             <div>
+                <h2>Start</h2>
                 <Pokedex projects={hand1} /*exp={exp1} isWinner={ exp1 > exp2 }*/ />
+                <h2>Patterns</h2>
                 <Pokedex projects={hand2} /*exp={exp2} isWinner={ exp2 > exp1 }*/ />
             </div>
         );
