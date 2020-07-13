@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/pocketmusic/static/css/main.15289053.chunk.css",
-    "main.js": "/pocketmusic/static/js/main.1416b06d.chunk.js",
-    "main.js.map": "/pocketmusic/static/js/main.1416b06d.chunk.js.map",
-    "runtime-main.js": "/pocketmusic/static/js/runtime-main.ceaef6d8.js",
-    "runtime-main.js.map": "/pocketmusic/static/js/runtime-main.ceaef6d8.js.map",
-    "static/js/2.51bbd236.chunk.js": "/pocketmusic/static/js/2.51bbd236.chunk.js",
-    "static/js/2.51bbd236.chunk.js.map": "/pocketmusic/static/js/2.51bbd236.chunk.js.map",
-    "index.html": "/pocketmusic/index.html",
-    "precache-manifest.5951e3b8ea2225e67b057ed1504ea453.js": "/pocketmusic/precache-manifest.5951e3b8ea2225e67b057ed1504ea453.js",
-    "service-worker.js": "/pocketmusic/service-worker.js",
-    "static/css/main.15289053.chunk.css.map": "/pocketmusic/static/css/main.15289053.chunk.css.map",
-    "static/js/2.51bbd236.chunk.js.LICENSE.txt": "/pocketmusic/static/js/2.51bbd236.chunk.js.LICENSE.txt",
-    "static/media/EmilyBlog.png": "/pocketmusic/static/media/EmilyBlog.2ac90392.png",
-    "static/media/GhoulGame.png": "/pocketmusic/static/media/GhoulGame.64c9ab7c.png"
+    "main.css": "/Pocketmusic/static/css/main.15289053.chunk.css",
+    "main.js": "/Pocketmusic/static/js/main.62fcc80d.chunk.js",
+    "main.js.map": "/Pocketmusic/static/js/main.62fcc80d.chunk.js.map",
+    "runtime-main.js": "/Pocketmusic/static/js/runtime-main.55899389.js",
+    "runtime-main.js.map": "/Pocketmusic/static/js/runtime-main.55899389.js.map",
+    "static/js/2.51bbd236.chunk.js": "/Pocketmusic/static/js/2.51bbd236.chunk.js",
+    "static/js/2.51bbd236.chunk.js.map": "/Pocketmusic/static/js/2.51bbd236.chunk.js.map",
+    "index.html": "/Pocketmusic/index.html",
+    "precache-manifest.04b8b86d0eaf33462b55f558af8033e8.js": "/Pocketmusic/precache-manifest.04b8b86d0eaf33462b55f558af8033e8.js",
+    "service-worker.js": "/Pocketmusic/service-worker.js",
+    "static/css/main.15289053.chunk.css.map": "/Pocketmusic/static/css/main.15289053.chunk.css.map",
+    "static/js/2.51bbd236.chunk.js.LICENSE.txt": "/Pocketmusic/static/js/2.51bbd236.chunk.js.LICENSE.txt",
+    "static/media/EmilyBlog.png": "/Pocketmusic/static/media/EmilyBlog.2ac90392.png",
+    "static/media/GhoulGame.png": "/Pocketmusic/static/media/GhoulGame.64c9ab7c.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.ceaef6d8.js",
+    "static/js/runtime-main.55899389.js",
     "static/js/2.51bbd236.chunk.js",
     "static/css/main.15289053.chunk.css",
-    "static/js/main.1416b06d.chunk.js"
+    "static/js/main.62fcc80d.chunk.js"
   ]
 }
