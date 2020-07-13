@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7b57a40a15df5ef2c459614475ca3011",
+    "revision": "3b0cf97feda49147438805a370e24722",
     "url": "/Pocketmusic/index.html"
   },
   {
-    "revision": "b4e0211da1936a2b6bc5",
-    "url": "/Pocketmusic/static/css/main.717efe3b.chunk.css"
+    "revision": "e0cdaf28c8e14095e0d3",
+    "url": "/Pocketmusic/static/css/main.e0dfc077.chunk.css"
   },
   {
     "revision": "3f4f221217bc2f59a5a4",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Pocketmusic/static/js/2.63df3e78.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b4e0211da1936a2b6bc5",
+    "revision": "e0cdaf28c8e14095e0d3",
     "url": "/Pocketmusic/static/js/main.b8366984.chunk.js"
   },
   {
