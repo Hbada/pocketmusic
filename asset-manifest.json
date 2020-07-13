@@ -1,24 +1,23 @@
 {
   "files": {
     "main.css": "/Pocketmusic/static/css/main.15289053.chunk.css",
-    "main.js": "/Pocketmusic/static/js/main.38435a4c.chunk.js",
-    "main.js.map": "/Pocketmusic/static/js/main.38435a4c.chunk.js.map",
+    "main.js": "/Pocketmusic/static/js/main.b8366984.chunk.js",
+    "main.js.map": "/Pocketmusic/static/js/main.b8366984.chunk.js.map",
     "runtime-main.js": "/Pocketmusic/static/js/runtime-main.55899389.js",
     "runtime-main.js.map": "/Pocketmusic/static/js/runtime-main.55899389.js.map",
-    "static/js/2.a4df171e.chunk.js": "/Pocketmusic/static/js/2.a4df171e.chunk.js",
-    "static/js/2.a4df171e.chunk.js.map": "/Pocketmusic/static/js/2.a4df171e.chunk.js.map",
+    "static/js/2.63df3e78.chunk.js": "/Pocketmusic/static/js/2.63df3e78.chunk.js",
+    "static/js/2.63df3e78.chunk.js.map": "/Pocketmusic/static/js/2.63df3e78.chunk.js.map",
     "index.html": "/Pocketmusic/index.html",
-    "precache-manifest.6db7db71f3103b7b632dfde21bdebc1c.js": "/Pocketmusic/precache-manifest.6db7db71f3103b7b632dfde21bdebc1c.js",
+    "precache-manifest.a11ba4f09f8e40f8486b143e43469672.js": "/Pocketmusic/precache-manifest.a11ba4f09f8e40f8486b143e43469672.js",
     "service-worker.js": "/Pocketmusic/service-worker.js",
     "static/css/main.15289053.chunk.css.map": "/Pocketmusic/static/css/main.15289053.chunk.css.map",
-    "static/js/2.a4df171e.chunk.js.LICENSE.txt": "/Pocketmusic/static/js/2.a4df171e.chunk.js.LICENSE.txt",
-    "static/media/EmilyBlog.png": "/Pocketmusic/static/media/EmilyBlog.2ac90392.png",
-    "static/media/GhoulGame.png": "/Pocketmusic/static/media/GhoulGame.64c9ab7c.png"
+    "static/js/2.63df3e78.chunk.js.LICENSE.txt": "/Pocketmusic/static/js/2.63df3e78.chunk.js.LICENSE.txt",
+    "static/media/placeholderIcon.jpg": "/Pocketmusic/static/media/placeholderIcon.309ed6ea.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.55899389.js",
-    "static/js/2.a4df171e.chunk.js",
+    "static/js/2.63df3e78.chunk.js",
     "static/css/main.15289053.chunk.css",
-    "static/js/main.38435a4c.chunk.js"
+    "static/js/main.b8366984.chunk.js"
   ]
 }
