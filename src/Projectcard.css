@@ -20,8 +20,8 @@
 }
 
 .Projectcard img {
-    transition: all ease 500ms;
-    width: 80%;
+    /*transition: all ease 500ms;*/
+    width: 40%;
     border-radius: 100%;
 }
 
