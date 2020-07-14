@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Pocketmusic/static/css/main.e0dfc077.chunk.css",
+    "main.css": "/Pocketmusic/static/css/main.34a100ce.chunk.css",
     "main.js": "/Pocketmusic/static/js/main.f497d262.chunk.js",
     "main.js.map": "/Pocketmusic/static/js/main.f497d262.chunk.js.map",
     "runtime-main.js": "/Pocketmusic/static/js/runtime-main.55899389.js",
@@ -8,16 +8,16 @@
     "static/js/2.63df3e78.chunk.js": "/Pocketmusic/static/js/2.63df3e78.chunk.js",
     "static/js/2.63df3e78.chunk.js.map": "/Pocketmusic/static/js/2.63df3e78.chunk.js.map",
     "index.html": "/Pocketmusic/index.html",
-    "precache-manifest.90abc868e67ad22303c3a8a483d2b943.js": "/Pocketmusic/precache-manifest.90abc868e67ad22303c3a8a483d2b943.js",
+    "precache-manifest.58150857553e733e5b042fec45bc2b86.js": "/Pocketmusic/precache-manifest.58150857553e733e5b042fec45bc2b86.js",
     "service-worker.js": "/Pocketmusic/service-worker.js",
-    "static/css/main.e0dfc077.chunk.css.map": "/Pocketmusic/static/css/main.e0dfc077.chunk.css.map",
+    "static/css/main.34a100ce.chunk.css.map": "/Pocketmusic/static/css/main.34a100ce.chunk.css.map",
     "static/js/2.63df3e78.chunk.js.LICENSE.txt": "/Pocketmusic/static/js/2.63df3e78.chunk.js.LICENSE.txt",
     "static/media/placeholderIcon.jpg": "/Pocketmusic/static/media/placeholderIcon.309ed6ea.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.55899389.js",
     "static/js/2.63df3e78.chunk.js",
-    "static/css/main.e0dfc077.chunk.css",
+    "static/css/main.34a100ce.chunk.css",
     "static/js/main.f497d262.chunk.js"
   ]
 }
