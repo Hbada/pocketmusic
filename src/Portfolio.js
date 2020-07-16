@@ -11,16 +11,16 @@ class Portfolio extends Component {
             { id: 2, name: 'Select sound', type: 'Press number 1 to 16 to select a sound. Start a pattern first if you want to play along.', img: selectSound, altText: '' },
             { id: 3, name: 'Set volume', type: 'Press BPM + any numbered key 1 to 16. Low is 1, max is 16.', altText: '' },
             { id: 4, name: 'Play pattern', type: 'Hold Pattern + number 1 to 16 to select pattern, then Play to play it.', altText: '' },
-            { id: 5, name: 'Turn off', type: 'Press Sound + BPM at same time', img: turnOff },
+            { id: 5, name: 'Turn off', type: 'Press Sound + BPM at same time???', img: turnOff },
             { id: 6, name: 'Drum track', type: 'Sound #16 is drums.' }
         ],
         projects2 : [
             { id: 1, name: 'Vibrato', type: 'Drums don\'t have vibrato, but sounds do by default.', altText: '', img: selectSound },
             { id: 2, name: 'Tracks info', type: 'Device has two tracks - one for sound, one for drums. To get a third sound, play it live while playing pattern.', img: turnOff, altText: '' },
-            { id: 3, name: '', type: '', year: 2019, base_experience: 1, altText: '' },
-            { id: 4, name: '', type: '', year: 2016, base_experience: 1, altText: '' },
-            { id: 5, name: '', type: '', year: 2018, base_experience: 1, img: turnOff },
-            { id: 6, name: '', type: '', year: 2019, base_experience: 1 }
+            { id: 3, name: 'Make step sequence for drum', type: 'Select Sound + 16. Press Write. Turn steps on or off from 1 to 16. For each, hold the position number while turning Knob A to select the drum sound 1 to 15. What does Knob B do here???', altText: '' },
+            { id: 4, name: 'Make step sequence for sounds', type: 'Select Sound from 1 to 15. Press Write. Toggle steps on or off from 1 to 16. Turn Knob A to set pitch?', altText: '' },
+            { id: 5, name: 'Write mode indicator', type: 'Square with circle inside appears when controls are being recorded.', altText: '', img: turnOff },
+            { id: 6, name: '', type: '' }
         ]
     };
 
